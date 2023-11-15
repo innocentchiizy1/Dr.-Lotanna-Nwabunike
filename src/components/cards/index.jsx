@@ -2,7 +2,7 @@ import Button from "../button/index";
 import React from "react"; // Import React
 import { clsx } from "clsx";
 import image1 from "./frontt.jpeg";
-import image2 from "./raph.png";
+import image2 from "./vivian.png";
 import image3 from "./two.jpeg";
 import image4 from "./lastt.png";
 import image5 from "./back.jpeg";
